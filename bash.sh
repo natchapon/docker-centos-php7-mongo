@@ -1,0 +1,1 @@
+docker exec -ti -p 80 -p 27017 centos7-apache-php7-mongo:test /bin/bash
